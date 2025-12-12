@@ -1,0 +1,16 @@
+Period (Days from Sowing),Stage,Soil Moisture Target,Soil Temperature,Daily Water (mm/day)
+0-14,Germination & Emergence,50-60%,10-18°C,0.6-1.0
+14-28,Seedling - 2-4 Leaf Stage,40-50%,18-24°C,0.8-1.4
+28-42,Early Vegetative - 4-6 Leaf,40-50%,20-26°C,1.0-1.8
+42-56,Vegetative - 6-8 Leaf Stage,45-55%,22-28°C,1.5-2.4
+56-70,Vegetative - 8-10 Leaf (Knee High),45-55%,22-28°C,2.0-3.0
+70-84,Mid-Vegetative - Ear Initiation,50-60%,22-28°C,2.5-3.5
+84-98,Late Vegetative - Rapid Growth,55-65%,22-28°C,3.0-4.2
+98-112,Tasseling - Tassel Emergence,60-70%,22-28°C,3.5-4.8
+112-126,Silking/Flowering - Female Flower,65-75%,22-28°C,4.0-5.4
+126-140,Anthesis & Pollination - Critical,65-75%,20-28°C,4.2-5.6
+140-154,Grain Filling - Early (Milk Stage),60-70%,18-26°C,4.0-5.2
+154-168,Grain Filling - Mid (Dough Stage),55-65%,16-26°C,3.5-4.6
+168-182,Grain Filling - Late (Physiological Mat),45-55%,14-24°C,2.5-3.5
+182-196,Drying - Black Layer Formation,35-45%,12-22°C,1.5-2.5
+196-210,Maturity - Dry Grain Stage,25-35%,8-20°C,0.8-1.5

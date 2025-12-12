@@ -1,0 +1,16 @@
+Period_Days,Stage,Moisture_Target_Range,Temp_Range_C,Root_Depth_mm
+0-14,Germination,50-60%,10-18°C,50
+14-28,Seedling,40-50%,18-24°C,150
+28-42,Early Vegetative,40-50%,20-26°C,300
+42-56,Vegetative (6-8 Leaf),45-55%,22-28°C,450
+56-70,Knee High,45-55%,22-28°C,550
+70-84,Ear Initiation,50-60%,22-28°C,700
+84-98,Rapid Growth,55-65%,22-28°C,800
+98-112,Tasseling,60-70%,22-28°C,900
+112-126,Silking (Critical),65-75%,22-28°C,1000
+126-140,Anthesis,65-75%,20-28°C,1000
+140-154,Grain Fill (Milk),60-70%,18-26°C,1000
+154-168,Grain Fill (Dough),55-65%,16-26°C,1000
+168-182,Maturity (Physio),45-55%,14-24°C,1000
+182-196,Drying,35-45%,12-22°C,1000
+196-210,Harvest,25-35%,8-20°C,1000
